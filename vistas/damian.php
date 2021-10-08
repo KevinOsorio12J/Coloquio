@@ -48,33 +48,33 @@
 		<div class="collapse navbar-collapse" id="navbarNav">
 			<ul class="navbar-nav mx-auto">
 				<li class="nav-item dropdown active dropdown-slide">
-					<a class="nav-link" href="#top">Inicio
+					<a class="nav-link" href="index.php">Inicio
 
 					</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#informacion">Información
+					<a class="nav-link" href="./#informacion">Información
 
 					</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#ponentes">Ponentes</a>
+					<a class="nav-link" href="./#ponentes">Ponentes</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#intinerario">Intinerario</a>
+					<a class="nav-link" href="./#intinerario">Intinerario</a>
 				</li>
 				<li class="nav-item dropdown dropdown-slide">
-					<a class="nav-link" href="#taller" >Talleres
+					<a class="nav-link" href="./#taller" >Talleres
 
 					</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#convocatoria">Convocatoria</a>
+					<a class="nav-link" href="./#convocatoria">Convocatoria</a>
 				</li>
 			</ul>
 			<a href="#" class="ticket">
 				<i class="fa fa-user-plus" aria-hidden="true"></i>
-				<span>Registrarse</span>
+				<span onclick="location.href='registro.php'">Registrarse</span>
 			</a>
 		</div>
 	</div>

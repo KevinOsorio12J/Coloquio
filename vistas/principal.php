@@ -74,7 +74,7 @@
 				</ul>
 				<a href="#" class="ticket">
 					<i class="fa fa-user-plus" aria-hidden="true"></i>
-					<span>Registrarse</span>
+					<span onclick="location.href='registro.php'">Registrarse</span>
 				</a>
 			</div>
 		</div>
@@ -1330,7 +1330,7 @@
 							<img src="./assets/img/buscar.png">
 						</div>
 						<div class="btn-conv">
-							<a>Registrarse</a>
+							<a >Registrarse</a>
 						</div>
 					</div>
 					
