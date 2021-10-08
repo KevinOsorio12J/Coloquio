@@ -1008,7 +1008,38 @@
 							<p class="justificar">Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
 						</div>
 						<div class="pricing-footer text-center">
-							<a class="btn btn-transparent-md" class="nav-link" href="#intinerario"  >Detalles del taller</a>
+							<a class="btn btn-transparent-md" class="nav-link" href="#taller1" data-toggle="modal">Detalles del taller</a>
+						</div>
+						<div class="modal fade" id="taller1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+								<div class="modal-header" style="background-color:#2e95b6;">
+									<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+									<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+									</button>
+								</div>
+								<div class="modal-body">
+									<div style="padding:40px;">
+									<h4>Descripcion del taller: </h4>
+									Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+									
+									</div>
+									<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+									
+									<div style="padding:40px;">
+									<h4>Detalles</h4>
+										<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+										<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+										<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+										<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+									</div>
+								</div>
+								<div class="modal-footer">
+									<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+								</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
