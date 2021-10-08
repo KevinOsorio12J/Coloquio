@@ -839,7 +839,7 @@
 												<span class="name">Mtro. Dagoberto Arce Córdova</span>
 											</div>
 											<!-- Subject -->
-											<div class="subject">Introducción al algebra lineal en Scilab</div>
+											<div class="subject">Introducción al álgebra lineal en Scilab</div>
 											
 										</div>
 									</li>
@@ -1010,37 +1010,41 @@
 						<div class="pricing-footer text-center">
 							<a class="btn btn-transparent-md" class="nav-link" href="#taller1" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
 						<div class="modal fade" id="taller1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 							<div class="modal-dialog modal-dialog-centered" role="document">
 								<div class="modal-content">
-								<div class="modal-header" style="background-color:#2e95b6;">
-									<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
-									<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
-									<span aria-hidden="true">&times;</span>
-									</button>
-								</div>
-								<div class="modal-body">
-									<div style="padding:40px;">
-									<h4>Descripcion del taller: </h4>
-									Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
-									
+									<div class="modal-header" style="background-color:#2e95b6;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
 									</div>
-									<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
-									
-									<div style="padding:40px;">
-									<h4>Detalles</h4>
-										<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
-										<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-										<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
-										<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
 									</div>
-								</div>
-								<div class="modal-footer">
-									<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-								</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
 								</div>
 							</div>
 						</div>
+						<!-- termina modal -->
+
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6" style="margin-bottom:20px;">
@@ -1066,8 +1070,44 @@
 							</ul>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-main-md">Detalles del taller</a>
+							<a href="#taller2" class="btn btn-main-md" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
+						<div class="modal fade" id="taller2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#e11344;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<div style="width:100%; text-align:center;">
+											<img style="height:185px;" src="assets/principal/images/icon/calculo.png" alt="">
+
+										</div>
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										En este taller los participantes identificaran el fundamento general para la comprensión del cálculo, facilitando una comprensión para su interpretación en el mundo que nos rodea.										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6" style="margin-bottom:20px;">
@@ -1087,8 +1127,42 @@
 							<p class="justificar">Aplicación del lenguaje de programación Python para la enseñanza de diversos métodos matemáticos de manera sencilla que permita visualizar y resaltar el uso de las matemáticas para la ingeniería.</p>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-transparent-md">Detalles del taller</a>
+							<a href="#taller3" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
+						<div class="modal fade" id="taller3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#595aac;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- termina modal -->
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6" style="margin-bottom:20px;">
@@ -1108,8 +1182,42 @@
 							<p class="justificar">Presentación de los conceptos fundamentales para desarrollar matrices en R, con la finalidad de desarrollar el método de eliminación Gauss-Jordan.</p>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-transparent-md">Detalles del taller</a>
+							<a href="#taller4" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
+						<div class="modal fade" id="taller4" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#2e95b6;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- termina modal -->
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6" style="margin-bottom:20px;">
@@ -1134,7 +1242,41 @@
 							</ul>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-transparent-md">Detalles del taller</a>
+							<a href="#taller5" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
+							<!-- MODALL -->
+						<div class="modal fade" id="taller5" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#e11344;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- termina modal -->
 						</div>
 					</div>
 				</div>
@@ -1155,8 +1297,42 @@
 							<p class="justificar">En este taller se mostrará de forma práctica como muestrear una señal y procesarla y filtrarla, usando la FFT y filtros digitales.</p>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-transparent-md">Detalles del taller</a>
+							<a href="#taller6" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
+						<div class="modal fade" id="taller6" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#595aac;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- termina modal -->
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6" style="margin-bottom:20px;">
@@ -1176,8 +1352,42 @@
 							<p class="justificar">Se pretende que el asistente conozca, maneje y aprenda diferentes plataformas que están en línea para aprender matemáticas; así como las aplicaciones digitales que ayudan a un aprendizaje significativo en el campo de las matemáticas.</p>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-transparent-md">Detalles del taller</a>
+							<a href="#taller7" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
+						<div class="modal fade" id="taller7" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#2e95b6;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- termina modal -->
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6" style="margin-bottom:20px;">
@@ -1203,8 +1413,42 @@
 							</ul>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-transparent-md">Detalles del taller</a>
+							<a href="#taller8" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
+						<div class="modal fade" id="taller8" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#e11344;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- termina modal -->
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6" style="margin-bottom:20px;">
@@ -1230,8 +1474,42 @@
 							</ul>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-transparent-md">Detalles del taller</a>
+							<a href="#taller9" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
+						<div class="modal fade" id="taller9" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#595aac;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- termina modal -->
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6" style="margin-bottom:20px;">
@@ -1251,8 +1529,42 @@
 							<p class="justificar">Scratch es un lenguaje de programación desarrollado desde 2003 por el prestigioso Instituto Tecnológico de Massachusetts (MIT) Estados Unidos, que guarda algunas características que lo hacen único. No sólo es gratuito y multiplataforma (Windows, Mac, Linux), sino que es un software sencillo y completamente intuitivo que no necesita ningún tipo de manual para poder manejarlo con eficiencia. Además, permite compartir proyectos con docentes, así como visualizar la de otros compañeros y aprender de ello.</p>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-transparent-md">Detalles del taller</a>
+							<a href="#taller10" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
+						<div class="modal fade" id="taller10" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#2e95b6;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- termina modal -->
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6" style="margin-bottom:20px;">
@@ -1272,8 +1584,42 @@
 							<p class="justificar">La utilización del cálculo diferencial e integral como herramienta de solución de problemas de aplicación a la ingeniería permite la revisión de métodos numéricos implementados mediante la utilización del programa EXCEL. En este taller se espera que el asistente, pueda resolver de manera eficiente y rápida, a partir de la elaboración de fórmulas, las integrales definidas en un intervalo establecido por medio del método de Newton-Raphson.</p>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-transparent-md">Detalles del taller</a>
+							<a href="#taller11" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
+						<div class="modal fade" id="taller11" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#e11344;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- termina modal -->
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6" style="margin-bottom:20px;">
@@ -1286,15 +1632,49 @@
 							</div>
 							<!-- Price -->
 							<div style="display: flex; align-items:center; height: 290px;" class="price">
-								<h3 style="color:white">Introducción al algebra lineal en Scilab</h3>
+								<h3 style="color:white">Introducción al álgebra lineal en Scilab</h3>
 							</div>
 						</div>
 						<div class="pricing-body">
 							<p>Uso del software Scilab como alternativa a MATLAB en el manejo y operaciones con matrices.</p>
 						</div>
 						<div class="pricing-footer text-center">
-							<a href="#" class="btn btn-transparent-md">Detalles del taller</a>
+							<a href="#taller12" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
 						</div>
+						<!-- MODALL -->
+						<div class="modal fade" id="taller12" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered" role="document">
+								<div class="modal-content">
+									<div class="modal-header" style="background-color:#595aac;">
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+
+										<div style="padding:40px;">
+										<h4>Descripcion del taller: </h4>
+										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										
+										</div>
+										<hr>
+										<div style="padding:40px;">
+											<h4>Detalles</h4>
+											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
+											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- termina modal -->
 					</div>
 				</div>
 			</div>
