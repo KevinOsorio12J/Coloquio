@@ -1142,7 +1142,7 @@
 										</button>
 									</div>
 									<div class="modal-body">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/python.png" alt="">
+										<img style="padding-left:75px; width:375px;" src="assets/principal/images/icon/python.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
@@ -1197,7 +1197,7 @@
 										</button>
 									</div>
 									<div class="modal-body" style="text-align: justify;">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+										<img style="padding-left:65px; width: 385px;" src="assets/principal/images/icon/lineal.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
@@ -1256,7 +1256,7 @@
 										</button>
 									</div>
 									<div class="modal-body" style="text-align: justify;">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+										<img style="padding-left:85px; width:365px;" src="assets/principal/images/icon/olimpiadas.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
@@ -1312,7 +1312,7 @@
 										</button>
 									</div>
 									<div class="modal-body" style="text-align: justify;">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+										<img style="padding-left:65px; width:345px" src="assets/principal/images/icon/matlab.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
@@ -1367,7 +1367,7 @@
 										</button>
 									</div>
 									<div class="modal-body" style="text-align: justify;">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+										<img style="padding-left:95px; width:345px;" src="assets/principal/images/icon/plataforma.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
@@ -1428,7 +1428,7 @@
 										</button>
 									</div>
 									<div class="modal-body" style="text-align: justify;">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+										<img style="padding-left:65px; width:365px;" src="assets/principal/images/icon/matematico.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
@@ -1489,7 +1489,7 @@
 										</button>
 									</div>
 									<div class="modal-body" style="text-align: justify;">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+										<img style="padding-left:65px; width:365px;" src="assets/principal/images/icon/algebra.jpg" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
@@ -1543,7 +1543,7 @@
 										</button>
 									</div>
 									<div class="modal-body" style="text-align: justify;">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+										<img style="padding-left:65px; width:365px;" src="assets/principal/images/icon/scratch.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
@@ -1597,7 +1597,7 @@
 										</button>
 									</div>
 									<div class="modal-body" style="text-align: justify;">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/newton.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
