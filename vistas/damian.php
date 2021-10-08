@@ -48,7 +48,7 @@
 		<div class="collapse navbar-collapse" id="navbarNav">
 			<ul class="navbar-nav mx-auto">
 				<li class="nav-item dropdown active dropdown-slide">
-					<a class="nav-link" href="#top">Inicio
+					<a class="nav-link" href="index.php">Inicio
 
 					</a>
 				</li>
