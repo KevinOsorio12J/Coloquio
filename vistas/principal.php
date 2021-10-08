@@ -1740,7 +1740,7 @@
 						</div>
 						<div class="btn-conv">
 							<a onclick="location.href='carteles.php'">Registrarse</a>
-						</div>
+							</div>
 					</div>
 					
 				</div>

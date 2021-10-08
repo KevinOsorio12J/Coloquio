@@ -158,8 +158,6 @@
                       </div>
                 
                 </div>
-
-
                 <div class="clearfix"></div>
                 <div class="g-recaptcha" data-sitekey="6LeauLkcAAAAAE1AtP-dk9klIFjxyuyLJoRSI7iA"></div>
                 <button type="submit" class="forma-btn" id="search"> <span class="glyphicon glyphicon-search"></span> Registrarse</button>
