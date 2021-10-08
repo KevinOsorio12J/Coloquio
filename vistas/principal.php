@@ -1141,8 +1141,8 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body" style="text-align: justify;">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+									<div class="modal-body">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/python.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
@@ -1733,13 +1733,13 @@
 				<div class="col-md-6 col-sm-12" style="padding: 0;">
 					<div class="contenedor">
 						<div class="title">
-							<h1>Concurso <span class="alternate" style="color:white">carteles</span></h1>
+							<h1>Concurso <span class="alternate" style="color:white">de carteles</span></h1>
 						</div>
 						<div>
 							<img src="./assets/img/buscar.png">
 						</div>
 						<div class="btn-conv">
-							<a >Registrarse</a>
+							<a onclick="location.href='carteles.php'">Registrarse</a>
 						</div>
 					</div>
 					

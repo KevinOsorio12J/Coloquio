@@ -103,7 +103,8 @@
     <section class="registroform">
         <div class="container reg" id="advanced-search-form" style="border-radius:1em; padding: 20px">
             <h2>Registro</h2>
-            <form class="st">
+            <form class="st" id="register">
+                <input type="hidden" value="FRONT">
                 <div class="form-group">
                     <label for="first-name">Apellido Paterno</label>
                     <input type="text" class="form-control" placeholder="Apellido Paterno" id="first-name" required>
