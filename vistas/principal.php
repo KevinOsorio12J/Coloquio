@@ -1537,7 +1537,7 @@
 							<div class="modal-dialog modal-dialog-centered" role="document">
 								<div class="modal-content">
 									<div class="modal-header" style="background-color:#2e95b6;">
-										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Información</h5>
 										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
 										<span aria-hidden="true">&times;</span>
 										</button>
