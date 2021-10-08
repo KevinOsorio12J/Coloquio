@@ -30,6 +30,9 @@ class ControladorPlantilla{
     public function ctrRegistro(){
         include "vistas/registro.php";
     }
+    public function ctrCarteles(){
+        include "vistas/carteles.php";
+    }
     public function ctrCargarLogin(){
         include "../admin/templates/login.php";
     }

@@ -1020,8 +1020,10 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+									<div class="modal-body" style="text-align: justify;">
+										<div style="width;100%;text-align:center;">
+											<img style="" src="assets/principal/images/icon/Scilab_Logo.png" alt="">	
+										</div>
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
@@ -1029,7 +1031,7 @@
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1082,7 +1084,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<div style="width:100%; text-align:center;">
 											<img style="height:185px;" src="assets/principal/images/icon/calculo.png" alt="">
 
@@ -1093,11 +1095,11 @@
 										En este taller los participantes identificaran el fundamento general para la comprensión del cálculo, facilitando una comprensión para su interpretación en el mundo que nos rodea.										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Mtro. José pablo Rodríguez López <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Horario: </b>12:00 a 14:00 horas <i class="fa fa-clock-o"></i></p>							
 											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
@@ -1144,15 +1146,15 @@
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
-										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										Aplicación del lenguaje de programación Python para la enseñanza de diversos métodos matemáticos de manera sencilla que permita visualizar y resaltar el uso de las matemáticas para la ingeniería.</p>
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Dra. Karina Cancino Villatoro <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Horario: </b>12:00 a 14:00 horas <i class="fa fa-clock-o"></i></p>							
 											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
@@ -1194,20 +1196,20 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
-										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										Presentación de los conceptos fundamentales para desarrollar matrices en R, con la finalidad de desarrollar el método de eliminación Gauss-Jordan.</p>
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Mtro. Abraham Castellanos Cruz <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Horario: </b>15:00 a 17:00 horas <i class="fa fa-clock-o"></i></p>							
 											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
@@ -1253,20 +1255,20 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
-										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										Álgebra se ha convertido en un área fundamental en las olimpiadas de matemáticas. Veremos algunas de las principales herramientas del álgebra.</p>
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Dr. Esteban Hernández Méndez <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Horario: </b>15:00 a 17:00 horas <i class="fa fa-clock-o"></i></p>							
 											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
@@ -1309,21 +1311,21 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
-										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										En este taller se mostrará de forma práctica como muestrear una señal y procesarla y filtrarla, usando la FFT y filtros digitales.</p>
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Dr. Carlos Alberto Hernández Gutiérrez <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
-											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+											<p><b>Horario: </b>09:00 a 11:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>19 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
 									<div class="modal-footer">
@@ -1364,21 +1366,21 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
-										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										Se pretende que el asistente conozca, maneje y aprenda diferentes plataformas que están en línea para aprender matemáticas; así como las aplicaciones digitales que ayudan a un aprendizaje significativo en el campo de las matemáticas.</p>
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Mtro. Francisco Javier Vázquez Hilerio <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
 											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
-											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+											<p><b>Fecha: </b>19 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
 									<div class="modal-footer">
@@ -1425,21 +1427,21 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
-										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+										Desarrollar habilidades matemáticas y de pensamiento lógico – matemático centrados en el alumno, despertando el interés en ellos para potenciar la creatividad hacia lo nuevo y cosas que solo existen en la imaginación.</p>
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Mtro. David Enrique Vázquez Ramos <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
-											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+											<p><b>Horario: </b>12:00 a 14:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>19 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
 									<div class="modal-footer">
@@ -1486,7 +1488,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1494,7 +1496,7 @@
 										Se repasarán algunos conceptos básicos del álgebra lineal, así como algunas aplicaciones de estos temas en el procesamiento de imágenes y la robótica.										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Dr. Madaín Pérez Patricio. <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1535,12 +1537,12 @@
 							<div class="modal-dialog modal-dialog-centered" role="document">
 								<div class="modal-content">
 									<div class="modal-header" style="background-color:#2e95b6;">
-										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Informacion</h5>
+										<h5 class="modal-title" id="exampleModalLongTitle" style="color:white;">Información</h5>
 										<button type="button" class="close" style="color:white" data-dismiss="modal" aria-label="Close">
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1548,7 +1550,7 @@
 										Scratch es un lenguaje de programación desarrollado desde 2003 por el prestigioso Instituto Tecnológico de Massachusetts (MIT) Estados Unidos, que guarda algunas características que lo hacen único. No sólo es gratuito y multiplataforma (Windows, Mac, Linux), sino que es un software sencillo y completamente intuitivo que no necesita ningún tipo de manual para poder manejarlo con eficiencia. Además, permite compartir proyectos con docentes, así como visualizar la de otros compañeros y aprender de ello.										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Dr. David Salomón Gómez Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1594,7 +1596,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1602,7 +1604,7 @@
 										La utilización del cálculo diferencial e integral como herramienta de solución de problemas de aplicación a la ingeniería permite la revisión de métodos numéricos implementados mediante la utilización del programa EXCEL. En este taller se espera que el asistente, pueda resolver de manera eficiente y rápida, a partir de la elaboración de fórmulas, las integrales definidas en un intervalo establecido por medio del método de Newton-Raphson.										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Dr. Osbeli Elesban Bercián Moguel <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1648,7 +1650,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1656,7 +1658,7 @@
 										Uso del software Scilab como alternativa a MATLAB en el manejo y operaciones con matrices.										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Mtro. Dagoberto Arce Córdova<i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1731,13 +1733,13 @@
 				<div class="col-md-6 col-sm-12" style="padding: 0;">
 					<div class="contenedor">
 						<div class="title">
-							<h1>Concurso <span class="alternate" style="color:white">carteles</span></h1>
+							<h1>Concurso <span class="alternate" style="color:white">de carteles</span></h1>
 						</div>
 						<div>
 							<img src="./assets/img/buscar.png">
 						</div>
 						<div class="btn-conv">
-							<a >Registrarse</a>
+							<a onclick="location.href='carteles.php'">Registrarse</a>
 						</div>
 					</div>
 					
