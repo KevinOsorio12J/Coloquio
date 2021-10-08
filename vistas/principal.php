@@ -1020,7 +1020,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<div style="width;100%;text-align:center;">
 											<img style="" src="assets/principal/images/icon/Scilab_Logo.png" alt="">	
 										</div>
@@ -1031,7 +1031,7 @@
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1084,7 +1084,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<div style="width:100%; text-align:center;">
 											<img style="height:185px;" src="assets/principal/images/icon/calculo.png" alt="">
 
@@ -1095,7 +1095,7 @@
 										En este taller los participantes identificaran el fundamento general para la comprensión del cálculo, facilitando una comprensión para su interpretación en el mundo que nos rodea.										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Mtro. José pablo Rodríguez López <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1141,7 +1141,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1150,7 +1150,7 @@
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Dra. Karina Cancino Villatoro <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1196,7 +1196,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1205,7 +1205,7 @@
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Mtro. Abraham Castellanos Cruz <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1255,7 +1255,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1264,7 +1264,7 @@
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Dr. Esteban Hernández Méndez <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1311,7 +1311,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1320,7 +1320,7 @@
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Dr. Carlos Alberto Hernández Gutiérrez <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1366,7 +1366,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1375,7 +1375,7 @@
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Mtro. Francisco Javier Vázquez Hilerio <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1427,7 +1427,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1436,7 +1436,7 @@
 										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Mtro. David Enrique Vázquez Ramos <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1488,7 +1488,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1496,7 +1496,7 @@
 										Se repasarán algunos conceptos básicos del álgebra lineal, así como algunas aplicaciones de estos temas en el procesamiento de imágenes y la robótica.										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Dr. Madaín Pérez Patricio. <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1542,7 +1542,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1550,7 +1550,7 @@
 										Scratch es un lenguaje de programación desarrollado desde 2003 por el prestigioso Instituto Tecnológico de Massachusetts (MIT) Estados Unidos, que guarda algunas características que lo hacen único. No sólo es gratuito y multiplataforma (Windows, Mac, Linux), sino que es un software sencillo y completamente intuitivo que no necesita ningún tipo de manual para poder manejarlo con eficiencia. Además, permite compartir proyectos con docentes, así como visualizar la de otros compañeros y aprender de ello.										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Dr. David Salomón Gómez Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1596,7 +1596,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1604,7 +1604,7 @@
 										La utilización del cálculo diferencial e integral como herramienta de solución de problemas de aplicación a la ingeniería permite la revisión de métodos numéricos implementados mediante la utilización del programa EXCEL. En este taller se espera que el asistente, pueda resolver de manera eficiente y rápida, a partir de la elaboración de fórmulas, las integrales definidas en un intervalo establecido por medio del método de Newton-Raphson.										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Dr. Osbeli Elesban Bercián Moguel <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
@@ -1650,7 +1650,7 @@
 										<span aria-hidden="true">&times;</span>
 										</button>
 									</div>
-									<div class="modal-body">
+									<div class="modal-body" style="text-align: justify;">
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
@@ -1658,7 +1658,7 @@
 										Uso del software Scilab como alternativa a MATLAB en el manejo y operaciones con matrices.										
 										</div>
 										<hr>
-										<div style="padding:40px;">
+										<div style="padding:40px;text-align:center;">
 											<h4>Detalles</h4>
 											<p><b>Tallerista: </b>Mtro. Dagoberto Arce Córdova<i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
