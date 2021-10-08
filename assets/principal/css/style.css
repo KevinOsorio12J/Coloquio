@@ -3941,7 +3941,7 @@ ul.pagination .active a {
 
 .reg {
     background-color: red;
-    height: 520px;
+    height: auto;
 }
 
 .registroform {
@@ -3949,8 +3949,9 @@ ul.pagination .active a {
     background-size: cover;
     min-height: 100%;
     display: flex;
-    height: 700px;
+    height: auto;
     align-items: center;
+    padding:40px;
 }
 
 #advanced-search-form {
@@ -4005,7 +4006,60 @@ ul.pagination .active a {
     display: block;
     outline: none;
 }
+.format-group{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 62%;
+    float: left;
+    text-align: left;
 
+}
+.format-group2{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 30%;
+    float: left;
+    text-align: left;
+
+}
+
+.format-group select{
+    width:100%;
+    height:46px;
+}
+.format-group2 select{
+    width:100%;
+    height:46px;
+}
+.forma-btn{
+    width: 55%;
+    margin: 20px 42%;
+    display: block;
+    height: 46px;
+    outline: none;
+    background: #e11344;
+    border: solid 1px;
+    font-size: 19px;
+    border-radius: 4px;
+    color:#ffff;
+    transition: all ease-in-out .2s;
+}
+.forma-btn:hover{
+    background-color:#595aac;
+}
+.st{
+    display:flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.check-group{
+    display:flex;
+    flex-direction: column;
+}
+.cg{
+    display:flex;
+    justify-content: space-around;
+}
 @media screen and (max-width: 800px) {
     #advanced-search-form .form-group {
         width: 45%;
@@ -4024,6 +4078,8 @@ ul.pagination .active a {
         text-align: center;
     }
 }
+
+
 
 
 /*# sourceMappingURL=maps/style.css.map */
