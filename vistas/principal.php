@@ -1491,16 +1491,15 @@
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
-										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
-										
+										Se repasarán algunos conceptos básicos del álgebra lineal, así como algunas aplicaciones de estos temas en el procesamiento de imágenes y la robótica.										
 										</div>
 										<hr>
 										<div style="padding:40px;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Dr. Madaín Pérez Patricio. <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
-											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+											<p><b>Horario: </b>12:00 a 14:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>19 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
 									<div class="modal-footer">
@@ -1546,16 +1545,15 @@
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
-										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
-										
+										Scratch es un lenguaje de programación desarrollado desde 2003 por el prestigioso Instituto Tecnológico de Massachusetts (MIT) Estados Unidos, que guarda algunas características que lo hacen único. No sólo es gratuito y multiplataforma (Windows, Mac, Linux), sino que es un software sencillo y completamente intuitivo que no necesita ningún tipo de manual para poder manejarlo con eficiencia. Además, permite compartir proyectos con docentes, así como visualizar la de otros compañeros y aprender de ello.										
 										</div>
 										<hr>
 										<div style="padding:40px;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Dr. David Salomón Gómez Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
-											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+											<p><b>Horario: </b>15:00 a 17:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>19 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
 									<div class="modal-footer">
@@ -1601,16 +1599,15 @@
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
-										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
-										
+										La utilización del cálculo diferencial e integral como herramienta de solución de problemas de aplicación a la ingeniería permite la revisión de métodos numéricos implementados mediante la utilización del programa EXCEL. En este taller se espera que el asistente, pueda resolver de manera eficiente y rápida, a partir de la elaboración de fórmulas, las integrales definidas en un intervalo establecido por medio del método de Newton-Raphson.										
 										</div>
 										<hr>
 										<div style="padding:40px;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Dr. Osbeli Elesban Bercián Moguel <i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
-											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+											<p><b>Horario: </b>15:00 a 17:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>19 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
 									<div class="modal-footer">
@@ -1656,16 +1653,15 @@
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
-										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
-										
+										Uso del software Scilab como alternativa a MATLAB en el manejo y operaciones con matrices.										
 										</div>
 										<hr>
 										<div style="padding:40px;">
 											<h4>Detalles</h4>
-											<p><b>Tallerista: </b>Mtro. Miguel Ángel Zapata Sánchez <i class="fa fa-user" aria-hidden="true"></i></p>
+											<p><b>Tallerista: </b>Mtro. Dagoberto Arce Córdova<i class="fa fa-user" aria-hidden="true"></i></p>
 											<p><b>Duración: </b>2 horas <i class="fa fa-clock-o"></i></p>
-											<p><b>Horario: </b>10:00 a 12:00 horas <i class="fa fa-clock-o"></i></p>							
-											<p><b>Fecha: </b>18 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
+											<p><b>Horario: </b>15:00 a 17:00 horas <i class="fa fa-clock-o"></i></p>							
+											<p><b>Fecha: </b>19 de octubre de 2021.  <i class="fa fa-calendar" aria-hidden="true"></i></p>
 										</div>
 									</div>
 									<div class="modal-footer">
