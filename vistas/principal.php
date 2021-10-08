@@ -1140,7 +1140,7 @@
 										</button>
 									</div>
 									<div class="modal-body">
-										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
+										<img style="padding-left:65px;" src="assets/principal/images/icon/python.png" alt="">
 
 										<div style="padding:40px;">
 										<h4>Descripcion del taller: </h4>
