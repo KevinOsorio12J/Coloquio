@@ -96,7 +96,7 @@
 	</section>
 
 	<!--====  End of Banner  ====-->
-
+<br>
 
 <section class="registroform" >
     <div class="container reg" id="advanced-search-form">
