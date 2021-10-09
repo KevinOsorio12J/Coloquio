@@ -1733,22 +1733,50 @@
 				<div class="col-md-6 col-sm-12" style="padding: 0;">
 					<div class="contenedor">
 						<div class="title">
-							<h1>Concurso <span class="alternate" style="color:white">de carteles</span></h1>
+							<h1 style="text-align:center">CONCURSO <span class="alternate" style="color:white">DE CARTELES</span></h1>
 						</div>
 						<div>
-							<img src="./assets/img/buscar.png">
+							<h5 style="text-align:center"><span class="alternate" style="color:white">“1er. Coloquio Nacional:</span> Matemática Educativa Aplicada a la Ingeniería.”</h5>
+						</div>
+						<div>
+							<h4 style="text-align:center">TRABAJOS LIBRES <span class="alternate" style="color:white">MODALIDAD CARTEL</span></h4>
 						</div>
 						<div class="btn-conv">
-							<a onclick="location.href='carteles.php'">Registrarse</a>
-							</div>
+							<span data-toggle="modal" data-target="#carteles_pdf" href="#carteles_pdf">Más informacion</span>
+						</div>
 					</div>
+
+					<div class="modal fade" id="carteles_pdf" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+						<div class="modal-dialog" role="document" style="max-width:none;width:70%;height:90%;">
+							<div class="modal-content" style="height:100%">
+							<div class="modal-header">
+								<h5 class="modal-title" id="exampleModalLongTitle">Convocatoria</h5>
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+								</button>
+							</div>
+							<div class="modal-body">
+								<embed style="width:100%;height:100%" src="assets/principal/images/background/cartel_Concurso_Carteles_PDF_Interactivo.pdf" type="">
+							</div>
+							<div class="modal-footer">
+								<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+								
+							</div>
+							</div>
+						</div>
+						</div>
 					
 				</div>
 				<div class="col-md-6 col-sm-12 div-conv">	
 						<div class="descripcion">
-							<h3>
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere placeat et hic, obcaecati quae dolor atque libero quibusdam dicta, laboriosam, fugit eum vitae id assumenda expedita voluptatem aperiam omnis mollitia.
-							</h3>
+							<h5>
+								El Comité organizador del“1er. Coloquio Nacional: Matemática Educativa Aplicada a la
+								Ingeniería.”, que se realizará los días 18 y 19 de octubre de 2021, en un horario de 11:00
+								a17:00 horas a través de Google Meet salida Facebook Live., convoca a participar en la
+								presentación de trabajos libres de investigación en la modalidad de cartel. El objetivo
+								primordial es propiciar el intercambio académico-cientííco sobre las experiencias y
+								avances en la aplicación de las matemáticas en la ingeniería
+							</h5>
 						</div>	
 				</div>
 			</div>
@@ -1758,7 +1786,7 @@
 =            News Posts            =
 =================================-->
 
-	<section class="news section" style="background-color: #f7f7f7;">
+	<section class="news section" style="background-color: #f7f7f7;" hidden>
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
@@ -1874,8 +1902,8 @@
 				<div class="col-md-12">
 					<div class="block text-center">
 						<div class="footer-logo">
-							<img style="width: 350px;" href="http://localhost/primercoloquio%20fin/principal.php"
-								src="assets/principal/images/logop.png" alt="logo" class="img-fluid">
+						<img src="" alt="">	
+						<img style="width: 350px;" href="http://localhost/primercoloquio%20fin/principal.php" src="assets/principal/images/logop.png" alt="logo" class="img-fluid">
 						</div>
 						<ul class="social-links-footer list-inline">
 							<li class="list-inline-item">
@@ -1886,12 +1914,6 @@
 							</li>
 							<li class="list-inline-item">
 								<a href="#"><i class="fa fa-instagram"></i></a>
-							</li>
-							<li class="list-inline-item">
-								<a href="#"><i class="fa fa-rss"></i></a>
-							</li>
-							<li class="list-inline-item">
-								<a href="#"><i class="fa fa-vimeo"></i></a>
 							</li>
 						</ul>
 					</div>

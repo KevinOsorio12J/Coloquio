@@ -107,11 +107,11 @@
                 <input type="hidden" value="FRONT">
                 <div class="form-group">
                     <label for="first-name">Apellido Paterno</label>
-                    <input type="text" class="form-control" placeholder="Apellido Paterno" id="first-name" required>
+                    <input type="text" class="form-control" placeholder="Apellido Paterno" id="first-name" name="APM"required>
                 </div>
                 <div class="form-group">
                     <label for="last-name">Apellido Materno</label>
-                    <input type="text" class="form-control" placeholder="Apellido materno" id="last-name" required>
+                    <input type="text" class="form-control" placeholder="Apellido materno" name="APP" id="last-name" required>
                 </div>
                 <div class="form-group">
                     <label for="first-name">Nombre (s).</label>
@@ -124,32 +124,32 @@
                       <div class="input-group-text cg">           
                         <div>
                             Si               
-                            <input  name="estudiante" type="radio" aria-label="Checkbox for following text input" id="SI" required>
+                            <input  name="estudiante" type="radio" name="RBSI" aria-label="Checkbox for following text input" id="SI" required>
                         </div>
                         <div>
                             No
-                        <input name="estudiante" type="radio" aria-label="Checkbox for following text input" id="NO" required>
+                        <input name="estudiante" type="radio" name="RBNO" aria-label="Checkbox for following text input" id="NO" required>
                         </div>
                       </div>
                     </div>
                   </div>
                 <div class="form-group">
                     <label for="country">Matricula</label>
-                    <input  type="text" class="form-control " placeholder="Matricula" id="matricula" disabled>
+                    <input  type="text" class="form-control " placeholder="Matricula" id="matricula" name="RM" disabled>
                 </div>
                 <div class="form-group">
                     <label for="number">Numero telefonico</label>
-                    <input type="text" class="form-control" placeholder="Numero Telefonico" id="numero" required>
+                    <input type="text" class="form-control" placeholder="Numero Telefonico" name="RNUM" id="numero" required>
                 </div>
                 
                 <div class="form-group">
                     <label for="email">Email</label>
-                    <input type="email" class="form-control" placeholder="Email" id="email" required>
+                    <input type="email" class="form-control" placeholder="Email" name="REM" id="email" required>
                 </div>
                 <div class=" format-group">
                     <label for="tallers">Selecciona Taller</label>
                     <div class="input-group mb-12">
-                        <select class="custom-select" id="inputGroupSelect01">
+                        <select class="custom-select" id="inputGroupSelect01" name="RSEL">
                           <option selected>Selecciona taller</option>
                           <option value="1">One</option>
                           <option value="2">Two</option>
