@@ -29,7 +29,7 @@ class ControladorPlantilla{
     }
     public function ctrRegistro(){
         include "vistas/registro.php";
-    }c function ctrCargarLogin(){
+    } function ctrCargarLogin(){
         include "../admin/templates/login.php";
     }
     

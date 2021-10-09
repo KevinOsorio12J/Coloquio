@@ -843,7 +843,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .footer-main {
-    background: #272735;
+    background: #efefef;
     padding: 90px 0;
 }
 
@@ -3790,7 +3790,7 @@ ul.pagination .active a {
     padding: 10%;
 }
 
-.descripcion h3 {
+.descripcion h5 {
     color: white;
     font-weight: 200;
 }
@@ -3810,7 +3810,7 @@ ul.pagination .active a {
     color: white;
 }
 
-.btn-conv a {
+.btn-conv span {
     width: 100%;
     line-height: 50px;
     font-family: "Montserrat", sans-serif;
@@ -3855,7 +3855,7 @@ ul.pagination .active a {
 }
 
 @media (max-width: 979px) {
-    .descripcion h3 {
+    .descripcion h5 {
         font-size: 27px;
     }
 }
@@ -3919,7 +3919,7 @@ ul.pagination .active a {
     .contenedor div img {
         width: 170px;
     }
-    .descripcion h3 {
+    .descripcion h5 {
         font-size: 20px;
     }
 }
