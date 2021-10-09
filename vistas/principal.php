@@ -100,7 +100,7 @@
 						<h2>Coloquio Nacional</h2>
 						<h6>Matemática Educativa Aplicada a la Ingeniería</h6>
 						<!-- Action Button -->
-						<a href="#" class="btn btn-white-md">Registrarse</a>
+						<a href="registro.php" class="btn btn-white-md">Registrarse</a>
 					</div>
 				</div>
 			</div>
