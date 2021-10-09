@@ -884,7 +884,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .footer-main .block ul.social-links-footer li a:hover {
-    background: #ff6600;
+    background: #e11344;
 }
 
 .footer-main .block ul.social-links-footer li a:hover i {
@@ -915,7 +915,7 @@ select.form-control:not([size]):not([multiple]) {
     height: 45px;
     width: 45px;
     text-align: center;
-    background: #ff6600;
+    background: #e11344;
     float: right;
 }
 
