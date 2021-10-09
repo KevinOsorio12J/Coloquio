@@ -1902,7 +1902,7 @@
 				<div class="col-md-12">
 					<div class="block text-center">
 						<div class="footer-logo">
-						<img src="" alt="">	
+						<img src="assets/principal/images/LogoUPTap.png" alt="">	
 						<img style="width: 350px;" href="http://localhost/primercoloquio%20fin/principal.php" src="assets/principal/images/logop.png" alt="logo" class="img-fluid">
 						</div>
 						<ul class="social-links-footer list-inline">
