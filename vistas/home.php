@@ -370,6 +370,29 @@
 											
 										</div>
 									</li>
+									<!-- PONENTE 2nuevo -->
+									<li class="schedule-details">
+										<div class="block" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
+											<div class="time">
+												<span class="time large">18-oct-2021</span>
+												<span class="time-short">18/10/21</span>
+											</div>
+											<!-- time -->
+											<div class="time">
+												<i class="fa fa-clock-o"></i>
+												<span class="time">12:00 PM</span>
+											</div>
+											<!-- Speaker -->
+											<div class="speaker" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
+												<img src="assets/principal/images/speakers/speaker-thumb-one.jpg"
+													alt="speaker-thumb-one">
+												<span class="name">Dr. Luis Alfonso Maldonado López </span>
+											</div>
+											<!-- Subject -->
+											<div class="subject">Fractales, ciencia, ingeniería y Sociedad</div>
+											
+										</div>
+									</li>
 									<!-- PONENTE 2 -->
 									<li class="schedule-details">
 										<div class="block" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
@@ -380,7 +403,7 @@
 											<!-- time -->
 											<div class="time">
 												<i class="fa fa-clock-o"></i>
-												<span class="time">12:00 PM</span>
+												<span class="time">13:00 PM</span>
 											</div>
 											<!-- Speaker -->
 											<div class="speaker" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
@@ -439,6 +462,7 @@
 											
 										</div>
 									</li>
+									
 									<br><br>
 									<!-- PONENTE 5 -->
 									<li class="schedule-details">
@@ -486,6 +510,29 @@
 											
 										</div>
 									</li>
+									<!-- PONENTE 3 nuevo -->
+									<li class="schedule-details">
+										<div class="block" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
+											<div class="time">
+												<span class="time large">19-oct-2021</span>
+												<span class="time-short">19/10/21</span>
+											</div>
+											<!-- time -->
+											<div class="time">
+												<i class="fa fa-clock-o"></i>
+												<span class="time">13:00 PM</span>
+											</div>
+											<!-- Speaker -->
+											<div class="speaker" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
+												<img src="assets/principal/images/speakers/speaker-thumb-one.jpg"
+													alt="speaker-thumb-one">
+												<span class="name">Dr. Israel Sánchez Domínguez </span>
+											</div>
+											<!-- Subject -->
+											<div class="subject">Simulación un proceso actual en la enseñanza de la Ingeniería aplicando Matemáticas</div>
+											
+										</div>
+									</li>
 									<!-- PONENTE 6 -->
 									<li class="schedule-details">
 										<div class="block" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
@@ -505,10 +552,12 @@
 												<span class="name">Dr. Efraín Solares Lachica</span>
 											</div>
 											<!-- Subject -->
-											<div class="subject">PENDIENTE</div>
+											<div class="subject">Modelación matemática del problema de la cartera financiera</div>
 											
 										</div>
 									</li>
+									
+									
 									<!-- PONENTE 7 -->
 									<li class="schedule-details">
 										<div class="block" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
@@ -532,7 +581,8 @@
 											
 										</div>
 									</li>
-
+									
+									
 								</ul>
 							</div>
 							<div class="tab-pane fade schedule-item" id="nov21">
