@@ -40,9 +40,9 @@
 						<a class="nav-link" href="index.php#convocatoria">Concurso de Carteles</a>
 					</li>
 				</ul>
-				<a href="#" class="ticket">
+				<a class="ticket">
 					<i class="fa fa-user-plus" aria-hidden="true"></i>
-					<span onclick="location.href='index.php?page=Registro'">Registrarse</span>
+					<span style="cursor:pointer;" onclick="location.href='index.php?page=Registro'">Registrarse</span>
 				</a>
 			</div>
 		</div>
