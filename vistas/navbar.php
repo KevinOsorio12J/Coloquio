@@ -21,12 +21,12 @@
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#informacion">Información
+						<a class="nav-link" href="index.php#informacion">Información
 
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#ponentes">Ponentes</a>
+						<a class="nav-link" href="index.php#ponentes">Ponentes</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#intinerario">Intinerario</a>
@@ -42,7 +42,7 @@
 				</ul>
 				<a href="#" class="ticket">
 					<i class="fa fa-user-plus" aria-hidden="true"></i>
-					<span onclick="location.href='registro.php'">Registrarse</span>
+					<span onclick="location.href='index.php?page=Registro'">Registrarse</span>
 				</a>
 			</div>
 		</div>
