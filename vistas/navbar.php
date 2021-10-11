@@ -29,7 +29,7 @@
 						<a class="nav-link" href="index.php#ponentes">Ponentes</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#intinerario">Intinerario</a>
+						<a class="nav-link" href="index.php#intinerario">Intinerario</a>
 					</li>
 					<li class="nav-item dropdown dropdown-slide">
 						<a class="nav-link" href="#taller" >Talleres
@@ -37,7 +37,7 @@
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#convocatoria">Concurso de Carteles</a>
+						<a class="nav-link" href="index.php#convocatoria">Concurso de Carteles</a>
 					</li>
 				</ul>
 				<a href="#" class="ticket">

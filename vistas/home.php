@@ -307,9 +307,7 @@
 			<div class="row">
 				<div class="col-12">
 					<div class="section-title">
-						<h3>Intinerario <span class="alternate"></span></h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut
-							labore</p>
+						<h3>Horarios de <span class="alternate">Talleres y Ponencias</span></h3>
 					</div>
 				</div>
 			</div>
@@ -807,90 +805,6 @@
 
 	<!--====  End of Schedule  ====-->
 
-	<!--==================================
-=            Registration            =
-===================================-->
-
-	<section class="registration">
-		<div class="container-fuild p-0">
-			<div class="row">
-				<div class="col-lg-6 col-md-12 p-0">
-					<div class="service-block bg-service overlay-primary text-center">
-						<div class="row no-gutters">
-							<div class="col-6">
-								<!-- Service item -->
-								<div class="service-item">
-									<i class="fa fa-microphone"></i>
-									<h5>8 Ponentes</h5>
-								</div>
-							</div>
-							<div class="col-6">
-								<!-- Service item -->
-								<div class="service-item">
-									<i class="fa fa-flag"></i>
-									<h5>Aprende</h5>
-								</div>
-							</div>
-							<div class="col-6">
-								<!-- Service item -->
-								<div class="service-item">
-									<i class="fa fa-ticket"></i>
-									<h5>40 espacios disponibles</h5>
-								</div>
-							</div>
-							<div class="col-6">
-								<!-- Service item -->
-								<div class="service-item">
-									<i class="fa fa-calendar"></i>
-									<h5>2 dias de evento</h5>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6 col-md-12 p-0">
-					<div class="registration-block bg-registration overlay-dark">
-						<div class="block">
-							<div class="title text-left">
-								<h3>Registrate al <span class="alternate">Primer Coloquio</span></h3>								
-							</div>
-							<form action="#" class="row">
-								<div class="col-md-6">
-									<input type="text" class="form-control main" placeholder="Tu nombre">
-								</div>
-								<div class="col-md-6">
-									<input type="email" class="form-control main" placeholder="Correo">
-								</div>
-								<div class="col-md-6">
-									<input type="text" class="form-control main" placeholder="Telefono">
-								</div>
-								<div class="col-md-6">
-									<div class="form-group">
-										<select class="form-control main" id="select-ticket">
-											<option>Tipo de registro</option>
-											<option>1</option>
-											<option>2</option>
-											<option>3</option>
-											<option>4</option>
-											<option>5</option>
-										</select>
-									</div>
-								</div>
-								<div class="col-12" style="text-align:center;">
-									<button type="submit" class="btn btn-white-md" >Registrate ahora</button>
-								</div>
-							</form>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</section>
-
-	<!--====  End of Registration  ====-->
-
-
 	<!--===================================
 =            Pricing Table            =
 ====================================-->
@@ -900,7 +814,7 @@
 			<div class="row">
 				<div class="col-12">
 					<div class="section-title">
-						<h3>Ver <span class="alternate">talleres</span></h3>						
+						<h3>Nuestros <span class="alternate">talleres</span></h3>						
 					</div>
 				</div>
 			</div>
@@ -1605,17 +1519,11 @@
 				<div class="col-12">
 					<div class="section-title">
 						<h3>Nuestros <span class="alternate">Patrocinadores</span></h3>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut
-							labore dolore</p>
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-12">
-					<!-- Title -->
-					<div class="sponsor-title text-center">
-						<h5>Patrocinadores</h5>
-					</div>
 					<div class="block text-center">
 						<!-- Sponsors image list -->
 						<ul class="list-inline sponsors-list">
@@ -1656,7 +1564,7 @@
 							<h4 style="text-align:center">TRABAJOS LIBRES <span class="alternate" style="color:white">MODALIDAD CARTEL</span></h4>
 						</div>
 						<div class="btn-conv">
-							<span data-toggle="modal" data-target="#carteles_pdf" href="#carteles_pdf">Más informacion</span>
+							<span data-toggle="modal" data-target="#carteles_pdf" href="#carteles_pdf">Más Información</span>
 						</div>
 					</div>
 
