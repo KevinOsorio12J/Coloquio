@@ -1591,7 +1591,7 @@
 				</div>
 				<div class="col-md-6 col-sm-12 div-conv">	
 						<div class="descripcion">
-							<h5>
+							<h5 class="justificar">
 								El Comité organizador del“1er. Coloquio Nacional: Matemática Educativa Aplicada a la
 								Ingeniería.”, que se realizará los días 18 y 19 de octubre de 2021, en un horario de 11:00
 								a17:00 horas a través de Google Meet salida Facebook Live., convoca a participar en la

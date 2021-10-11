@@ -32,7 +32,7 @@
 						<a class="nav-link" href="index.php#intinerario">Intinerario</a>
 					</li>
 					<li class="nav-item dropdown dropdown-slide">
-						<a class="nav-link" href="#taller" >Talleres
+						<a class="nav-link" href="index.php#taller" >Talleres
 
 						</a>
 					</li>
