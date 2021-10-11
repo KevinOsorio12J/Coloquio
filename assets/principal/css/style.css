@@ -3770,14 +3770,19 @@ ul.pagination .active a {
 }
 
 .contenedor {
-    background-color: #595aac;
+    background-image: url(../images/background/fondo.jpg);
     width: 100%;
+    background-size: cover;
+    background-position-y: 55%;
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     padding: 30px;
+}
+.contenedor>div{
+    width: 50%;
 }
 
 .contenedor div img {
@@ -3846,6 +3851,12 @@ ul.pagination .active a {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+.contenedor h1{
+    font-size: 34px;
+}
+.contenedor h4{
+    font-size: 20px;
+}
 
 @media (max-width: 1024px) {
     .visible {
@@ -3856,10 +3867,17 @@ ul.pagination .active a {
         width: 50px;
     }
 }
-
+@media (max-width: 1120px){
+    .contenedor h1{
+        font-size: 18px;
+    }
+    .contenedor h4{
+        font-size: 13px;
+    }
+}
 @media (max-width: 979px) {
     .descripcion h5 {
-        font-size: 27px;
+        font-size: 21px;
     }
 }
 
@@ -3917,7 +3935,7 @@ ul.pagination .active a {
 
 @media(max-width: 424px) {
     .contenedor h1 {
-        font-size: 32px;
+        font-size: 26px;
     }
     .contenedor div img {
         width: 170px;

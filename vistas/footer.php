@@ -8,8 +8,8 @@
 				<div class="col-md-12">
 					<div class="block text-center">
 						<div class="footer-logo" style="display:flex;justify-content: space-evenly;">
-						<img style="width: 350px;" src="assets/principal/images/LogoUPTap.png" alt="">	
-						<img style="width: 460px;" href="http://localhost/primercoloquio%20fin/principal.php" src="assets/principal/images/logop.png" alt="logo" class="img-fluid">
+						<img style="width: 47%;" src="assets/principal/images/LogoUPTap.png" alt="">	
+						<img style="width: 63%;" href="http://localhost/primercoloquio%20fin/principal.php" src="assets/principal/images/logop.png" alt="logo" class="img-fluid">
 						</div>
 						<ul class="social-links-footer list-inline">
 							<li class="list-inline-item">
@@ -33,7 +33,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 align-self-center">
-					<div class="copyright-text" style="width:610px">
+					<div class="copyright-text" style="width:100%">
 						<p><a href="#" style="color:#ffff">Universidad Politecnica de Tapachula</a> &#169; 2021 Todos los derechos
 							reservados.</p>
 					</div>

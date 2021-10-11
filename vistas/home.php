@@ -1555,17 +1555,17 @@
 				<div class="col-md-6 col-sm-12" style="padding: 0;">
 					<div class="contenedor">
 						<div class="title">
-							<h1 style="text-align:center">CONCURSO <span class="alternate" style="color:white">DE CARTELES</span></h1>
+							<h1 style="text-align:center;">CONCURSO <span class="alternate" style="color: #e11344">DE CARTELES</span></h1>
 						</div>
-						<div>
-							<h5 style="text-align:center"><span class="alternate" style="color:white">“1er. Coloquio Nacional:</span> Matemática Educativa Aplicada a la Ingeniería.”</h5>
-						</div>
-						<div>
-							<h4 style="text-align:center">TRABAJOS LIBRES <span class="alternate" style="color:white">MODALIDAD CARTEL</span></h4>
-						</div>
-						<div class="btn-conv">
+						<br>
+						<div class="btn-conv" style="width:200px">
 							<span data-toggle="modal" data-target="#carteles_pdf" href="#carteles_pdf">Más Información</span>
 						</div>
+						<br>
+						<div>
+							<h4 style="text-align:center;">TRABAJOS LIBRES <span class="alternate" style="color: #e11344">MODALIDAD CARTEL</span></h4>
+						</div>
+						
 					</div>
 
 					<div class="modal fade" id="carteles_pdf" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
