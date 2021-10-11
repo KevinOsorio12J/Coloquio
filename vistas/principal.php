@@ -12,31 +12,36 @@
 
 <?php
 	include "vistas/navbar.php";
-	if(isset($_GET['page']) =="PedroTomas"){
+	if(isset($_GET['page']) && $_GET['page'] =="PedroTomas" ){
 		include "vistas/PedroTomas.php";
 	}
-	else if(isset($_GET['page']) =="EduardoBasurto"){
+	else if(isset($_GET['page']) && $_GET['page'] =="EduardoBasurto"){
 		include "vistas/Eduardo.php";
 	}
-	else if(isset($_GET['page']) =="EduardoMancera"){
+	else if(isset($_GET['page']) && $_GET['page'] =="EduardoMancera"){
 		include "vistas/Mancera.php";
 	}
-	else if(isset($_GET['page']) =="OsbeliEsleban"){
+	else if(isset($_GET['page']) &&$_GET['page'] =="OsbeliEsleban"){
 		include "vistas/Osbeli.php";
 	}
-	else if(isset($_GET['page']) =="CarlosAlberto"){
+	else if(isset($_GET['page']) &&$_GET['page'] =="CarlosAlberto"){
 		include "vistas/Carlos.php";
 	}
-	else if(isset($_GET['page']) =="FranciscoHilerio"){
+	else if(isset($_GET['page']) &&$_GET['page'] =="FranciscoHilerio"){
 		include "vistas/hilerio.php";
 	}
-	else if(isset($_GET['page']) =="EfrainSolares"){
+	else if(isset($_GET['page']) &&$_GET['page'] =="EfrainSolares"){
 		include "vistas/Efrain.php";
 	}
-	else if(isset($_GET['page']) =="DamianAlejandro"){
+	else if(isset($_GET['page']) &&$_GET['page'] =="DamianAlejandro"){
 		include "vistas/damian.php";
 	}
-	include "vistas/home.php";
+	else if(isset($_GET['page']) &&$_GET['page'] =="Registro"){
+		include "vistas/registro.php";
+	}else{
+		include "vistas/home.php";
+	}
+	
 	include "vistas/footer.php";
 	include "vistas/scripts.php";
 ?>
