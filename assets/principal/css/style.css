@@ -3726,13 +3726,16 @@ ul.pagination .active a {
 .boton-ponentes {
     background: transparent;
     border: solid 1px #fff;
-    color: white;
     width: 120px;
+    color: white;
     height: 63px;
     font-size: 20px;
     font-weight: 800;
     border-radius: 0.56em;
     transition: ease-in-out .5s;
+    text-align: center;
+    line-height: 63px;
+    cursor: pointer;
 }
 
 .boton-ponentes:hover {

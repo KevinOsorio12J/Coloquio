@@ -1,0 +1,50 @@
+
+<!--========================================
+=            Navigation Section            =
+=========================================-->
+<nav class="navbar main-nav border-less fixed-top navbar-expand-lg p-0" >
+		<div class="container-fluid p-0">
+			<!-- logo -->
+			<a class="navbar-brand" href="index.php">
+				<img class="visible" style="width: 250px;" src="assets/principal/images/logop.png" alt="logo">
+				<img class="novisible" src="assets/principal/images/icono.png" alt="logo">
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+				aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="fa fa-bars"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<ul class="navbar-nav mx-auto">
+					<li class="nav-item dropdown active dropdown-slide">
+						<a class="nav-link" href="#top">Inicio
+
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#informacion">Información
+
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#ponentes">Ponentes</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#intinerario">Intinerario</a>
+					</li>
+					<li class="nav-item dropdown dropdown-slide">
+						<a class="nav-link" href="#taller" >Talleres
+
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#convocatoria">Concurso de Carteles</a>
+					</li>
+				</ul>
+				<a href="#" class="ticket">
+					<i class="fa fa-user-plus" aria-hidden="true"></i>
+					<span onclick="location.href='registro.php'">Registrarse</span>
+				</a>
+			</div>
+		</div>
+	</nav>
+<!--====  End of Navigation Section  ====-->
