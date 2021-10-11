@@ -287,7 +287,7 @@
 						</div>
 						<div class="content text-center">
 							<h5><a>Damian Alejandro Clemente Olague</a></h5>
-							<p>Ing. en Sistemas Computacionales</p>
+							<p>Mtro. en Ciencias Matematicas</p>
 						</div>
 					</div>
 				</div>

@@ -10,7 +10,7 @@
 					<div class="block">
 						<!-- Coundown Timer -->
 						<div class="timer"></div>
-						<h1 style="font-size:30px;">Ing. En Sistemas Computacionales</h1>
+						<h1 style="font-size:30px;">Mtro. En Sistemas Computacionales</h1>
 						<h2>Damian Alejandro Clemente Olague</h2>
 						
 					</div>
@@ -39,7 +39,7 @@
 				</div>
 				<div class="col-lg-8 col-md-6 align-self-center">
 					<div class="content-block">
-						<h2>Acerca del <span class="alternate">Ing. Damian Alejandro</span></h2>						
+						<h2>Acerca del <span class="alternate">Mtro. Damian Alejandro</span></h2>						
 						<div style="text-align:justify" class="description-two">
 							<p>
 							Licenciado en Educación Media especializado en Matemáticas por la Universidad de Colima, Maestro en Educación por la Universidad Santander y Maestro en Ciencias en Matemática Educativa por el Centro de Investigación en Ciencia Aplicada y Tecnología Aplicada del Instituto Politécnico Nacional.							</p>
@@ -233,7 +233,7 @@
 						</div>
 						<div class="content text-center">
 							<h5><a style="color:#e11344">Damian Alejandro Clemente Olague</a></h5>
-							<p>Ing. en Sistemas Computacionales</p>
+							<p>Mtro. en Ciencias Matematicas</p>
 						</div>
 					</div>
 				</div>
