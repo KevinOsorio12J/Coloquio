@@ -1528,15 +1528,15 @@
 						<!-- Sponsors image list -->
 						<ul class="list-inline sponsors-list">
 							<li class="list-inline-item">
-								<div class="image-block text-center">
-									<a href="#">
+								<div style="cursor:default;" class="image-block text-center">
+									<a >
 										<img src="assets/img/FOTO LEON.jpeg" alt="sponsors-logo" class="img-fluid">
 									</a>
 								</div>
 							</li>
 							<li class="list-inline-item">
-								<div class="image-block text-center">
-									<a href="#">
+								<div style="cursor:default;" class="image-block text-center">
+									<a >
 										<img src="assets/img/La pergola.jpeg" alt="sponsors-logo" class="img-fluid">
 									</a>
 								</div>
