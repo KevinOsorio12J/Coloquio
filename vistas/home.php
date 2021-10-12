@@ -2,7 +2,7 @@
 =            Banner            =
 =============================-->
 
-<section class="banner bg-banner-one overlay" id="top">
+<section style="cursor:default;" class="banner bg-banner-one overlay" id="top">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
