@@ -42,6 +42,9 @@
 	else if(isset($_GET['page']) &&$_GET['page'] =="IsraelSanchez"){
 		include "vistas/Israel.php";
 	}
+	else if(isset($_GET['page']) &&$_GET['page'] =="Luis Alfonso"){
+		include "vistas/LuisA.php";
+	}
 	else{
 		include "vistas/home.php";
 	}

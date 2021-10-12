@@ -127,15 +127,15 @@
 					<!-- Speaker 1 -->
 					<div class="speaker-item">
 						<div class="image">
-							<img  src="assets/img/Damian Alejandro Clemente Olague.jpg" alt="speaker" class="img-fluid">
+							<img style="height:424px;"  src="assets/img/Luis Alfonso.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=DamianAlejandro">Ver más</a>
+								<a class="boton-ponentes" href="index.php?page=Luis Alfonso">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
-							<h5><a>Damian Alejandro Clemente Olague</a></h5>
-							<p>Mtro. en Ciencias Matemáticas</p>
+							<h5><a>Luis Alfonso Maldonado López</a></h5>
+							<p>Dr. en Ciencias</p>
 						</div>
 					</div>
 				</div>
@@ -152,6 +152,29 @@
 						<div class="content text-center">
 							<h5><a>Israel Sánchez Domínguez</a></h5>
 							<p>Dr. en Ingeniería Acústica</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6">
+					<!-- Speaker 1 -->
+					<div style="background:#eae9ec00" class="speaker-item">
+						
+						
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6">
+					<!-- Speaker 1 -->
+					<div class="speaker-item">
+						<div class="image">
+							<img  src="assets/img/Damian Alejandro Clemente Olague.jpg" alt="speaker" class="img-fluid">
+							<div class="primary-overlay"></div>
+							<div class="socials">
+								<a class="boton-ponentes" href="index.php?page=DamianAlejandro">Ver más</a>
+							</div>
+						</div>
+						<div class="content text-center">
+							<h5><a>Damian Alejandro Clemente Olague</a></h5>
+							<p>Mtro. en Ciencias Matemáticas</p>
 						</div>
 					</div>
 				</div>

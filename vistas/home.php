@@ -247,7 +247,7 @@
 												<span class="name">Dr. Luis Alfonso Maldonado López </span> 
 											</div>
 											<!-- Subject -->
-											<div class="subject">Fractales, ciencia, ingeniería y Sociedad</div>
+											<div class="subject">Fractales, ciencia, Ingeniería y Sociedad</div>
 											
 										</div>
 									</li>
