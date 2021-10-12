@@ -31,7 +31,7 @@
 =            About            =
 ============================-->
 
-	<section class="section about" id="informacion">
+	<section style="cursor:default;" class="section about" id="informacion">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-md-6 align-self-center">
@@ -101,7 +101,7 @@
 		</div>
 	</section>
 	<!-- ========================================================================================================== -->
-	<section class="section about">
+	<section style="cursor:default;" class="section about">
 		<div class="container">
 			<div class="row">
 
@@ -160,7 +160,7 @@
 =            Schedule            =
 ===============================-->
 
-	<section id="intinerario" class="section schedule">
+	<section style="cursor:default;" id="intinerario" class="section schedule">
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
@@ -717,7 +717,7 @@
 =            Pricing Table            =
 ====================================-->
 
-	<section id="taller" class="section pricing">
+	<section style="cursor:default;" id="taller" class="section pricing">
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
@@ -1457,7 +1457,7 @@
 	</section>
 
 	<!--====  End of Sponsors  ====-->
-	<section class="overlay-white convocatoria" id="convocatoria">
+	<section style="cursor:default;" class="overlay-white convocatoria" id="convocatoria">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-6 col-sm-12" style="padding: 0;">

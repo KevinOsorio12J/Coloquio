@@ -1,4 +1,4 @@
-<section id="ponentes" class="section speakers bg-speaker overlay-lighter">
+<section style="cursor:default;" id="ponentes" class="section speakers bg-speaker overlay-lighter">
 		<div class="container">
 			<div class="row">
 				<div class="col-12">

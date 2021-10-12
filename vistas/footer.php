@@ -2,7 +2,7 @@
 <!--============================
 =            Footer            =
 =============================-->
-<footer class="footer-main">
+<footer style="cursor:default;" class="footer-main">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -29,7 +29,7 @@
 		</div>
 	</footer>
 	<!-- Subfooter -->
-	<footer class="subfooter">
+	<footer style="cursor:default;" class="subfooter">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 align-self-center">
