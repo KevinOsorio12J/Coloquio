@@ -10,7 +10,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-3 col-md-4 col-sm-6">
+				<div class="col-lg-4 col-md-4 col-sm-6">
 					<!-- Speaker 1 -->
 					<div class="speaker-item">
 						<div class="image">
@@ -26,7 +26,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-4 col-sm-6">
+				<div class="col-lg-4 col-md-4 col-sm-6">
 					<!-- Speaker 2 -->
 					<div class="speaker-item">
 						<div class="image">
@@ -42,7 +42,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-4 col-sm-6">
+				<div class="col-lg-4 col-md-4 col-sm-6">
 					<!-- Speaker 3 -->
 					<div class="speaker-item">
 						<div class="image">
@@ -58,7 +58,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-4 col-sm-6">
+				<div class="col-lg-4 col-md-4 col-sm-6">
 					<!-- Speaker 4 -->
 					<div class="speaker-item">
 						<div class="image">
@@ -74,7 +74,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-4 col-sm-6">
+				<div class="col-lg-4 col-md-4 col-sm-6">
 					<!-- Speaker 5 -->
 					<div class="speaker-item">
 						<div class="image">
@@ -91,7 +91,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-4 col-sm-6">
+				<div class="col-lg-4 col-md-4 col-sm-6">
 					<!-- Speaker 1 -->
 					<div class="speaker-item">
 						<div class="image">
@@ -107,7 +107,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-4 col-sm-6">
+				<div class="col-lg-4 col-md-4 col-sm-6">
 					<!-- Speaker 1 -->
 					<div class="speaker-item">
 						<div class="image">
@@ -123,7 +123,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-4 col-sm-6">
+				<div class="col-lg-4 col-md-4 col-sm-6">
 					<!-- Speaker 1 -->
 					<div class="speaker-item">
 						<div class="image">
@@ -136,6 +136,22 @@
 						<div class="content text-center">
 							<h5><a>Damian Alejandro Clemente Olague</a></h5>
 							<p>Mtro. en Ciencias Matematicas</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6">
+					<!-- Speaker 1 -->
+					<div class="speaker-item">
+						<div class="image">
+							<img  src="assets/img/Israel Sánchez Domínguez.jpg" alt="speaker" class="img-fluid">
+							<div class="primary-overlay"></div>
+							<div class="socials">
+								<a class="boton-ponentes" href="index.php?page=IsraelSanchez">Ver mas</a>
+							</div>
+						</div>
+						<div class="content text-center">
+							<h5><a>Israel Sánchez Domínguez</a></h5>
+							<p>Dr. en Ingeniería Acústica</p>
 						</div>
 					</div>
 				</div>

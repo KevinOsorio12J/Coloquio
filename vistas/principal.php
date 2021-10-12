@@ -38,7 +38,11 @@
 	}
 	else if(isset($_GET['page']) &&$_GET['page'] =="Registro"){
 		include "vistas/registro.php";
-	}else{
+	}
+	else if(isset($_GET['page']) &&$_GET['page'] =="IsraelSanchez"){
+		include "vistas/Israel.php";
+	}
+	else{
 		include "vistas/home.php";
 	}
 	
