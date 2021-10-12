@@ -11,7 +11,7 @@
 					<div class="block">
 						<!-- Coundown Timer -->
 						<div class="timer"></div>
-						<h1 style="font-size:30px;">Mtro. En Educación Matematica</h1>
+						<h1 style="font-size:30px;">Mtro. En Educación Matemática</h1>
 						<h2>Francisco Javier Vazquez Hilerio</h2>
 						
 					</div>

@@ -11,7 +11,7 @@
 					<div class="block">
 						<!-- Coundown Timer -->
 						<div class="timer"></div>
-						<h1 style="font-size:30px;">Dr. en Administracion</h1>
+						<h1 style="font-size:30px;">Dr. en Administración</h1>
 						<h2>Osbeli Elesban Bercian Moguel</h2>
 						
 					</div>
@@ -51,7 +51,7 @@
 							</p>
 							<ul>
 								<li>2006-2008. Organizador de la 1ª,2ª y 3ª Semana de Ciencia y Tecnología en la Escuela Preparatoria Tapachula</li>
-								<li>2007-2009. Docente de la Escuela Preparatoria Tapachula: Matemáticas en el tema de Algebra, Trigonometría, geometría analítica y calculo integral y diferencial y Química Inorgánica</li>
+								<li>2007-2009. Docente de la Escuela Preparatoria Tapachula: Matemáticas en el tema de Álgebra, Trigonometría, geometría analítica y calculo integral y diferencial y Química Inorgánica</li>
 								<li>2008. Docente del Instituto tecnológico de Tapachula: Matemáticas en el tema de cálculo diferencial e integral </li>
 								<li>2008-2009. Docente en el Instituto de Estudios Superiores de Chiapas: Matemáticas en el tema de trigonometría, geometría, Geometría Analítica, Matemáticas Discretas</li>
 								<li>2009. Docente del Centro Universitario Cultural del Soconusco: Matemáticas Discretas</li>
@@ -85,7 +85,7 @@
 						</div>
 						<div class="description-two">
 							<p>
-								En la actualidad el estudio de las matemáticas que se enseñan en torno a la educación básica viene dotada de sentido especifico en el marco de los significados y las nociones, destinando así un enorme peso a los estudiantes en cuanto a contextualizar estos conocimientos. Este problema origina la búsqueda de nuevas formas de enseñanza con el objetivo de mejorar los resultados. Es de este modo que se brinda una propuesta, a partir de la teoría de situaciones didácticas, que permita superar, de manera funcional, el obstáculo que impide la comprensión y aprendizaje del alumno sobre las fracciones.
+								En la actualidad el estudio de las matemáticas que se enseñan en torno a la educación básica viene dotada de sentido específico en el marco de los significados y las nociones, destinando así un enorme peso a los estudiantes en cuanto a contextualizar estos conocimientos. Este problema origina la búsqueda de nuevas formas de enseñanza con el objetivo de mejorar los resultados. Es de este modo que se brinda una propuesta, a partir de la teoría de situaciones didácticas, que permita superar, de manera funcional, el obstáculo que impide la comprensión y aprendizaje del alumno sobre las fracciones.
 							</p>
 						</div>
 						<div class="description-two">

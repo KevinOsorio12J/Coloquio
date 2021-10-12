@@ -10,7 +10,7 @@
 					<div class="block">
 						<!-- Coundown Timer -->
 						<div class="timer"></div>
-						<h1 style="font-size:30px;">Dr. En Matematica Educativa</h1>
+						<h1 style="font-size:30px;">Dr. En Matemática Educativa</h1>
 						<h2>Eduardo Basurto Hidalgo</h2>
 						
 					</div>
@@ -58,7 +58,7 @@
 							</p>
 							<br>
 							<p>Ha colaborado en el desarrollo e implementación de proyectos de investigación y difusión de tecnologías digitales para la enseñanza de las matemáticas, con CASIO Académico, Texas Instruments y HP Education, y coordinó el programa académico de Ecosistemas HP Prime, Latin America. Sobre diseño curricular ha participado en la elaboración de los programas de estudio de la Dirección General de Bachillerato (DGB).  Con el Centro Nacional de Evaluación para la Educación Superior (CENEVAL) así como con el Instituto Nacional para la Evaluación de la Educación (INEE) ha colaborado en el desarrollo de diversos proyectos relacionados con evaluaciones nacionales e Internacionales como: ENLACE, EXCALE, PLANEA, entre otros.
-								Es coautor de los Cursos, Diplomados y Especializaciones del C@mpus de la Enseñanza de las Matemáticas, del cual fue Coordinador Académico, proyecto adscrito al Instituto de Formación docente de Virtual Educa.  Ha formado parte del grupo de Expertos de Virtual Educa en el área Consorcios y Redes.
+								Es coautor de los Cursos, Diplomados y Especializaciones del Campus de la Enseñanza de las Matemáticas, del cual fue Coordinador Académico, proyecto adscrito al Instituto de Formación docente de Virtual Educa.  Ha formado parte del grupo de Expertos de Virtual Educa en el área Consorcios y Redes.
 							</p>
 							<br>
 							<p>
@@ -85,7 +85,7 @@
 						</div>
 						<div class="description-two">
 							<p>
-							En esta platica se mostraran algunas de las bondades que nos presentan artefactos de tecnología digital para potencial la posibilidad de un pensamiento plausible en las clases de matemáticas partiendo de sus prestaciones pero sobre todo de estrategias de uso de las mismas.
+							En esta plática se mostrarán algunas de las bondades que nos presentan artefactos de tecnología digital para potencial la posibilidad de un pensamiento plausible en las clases de matemáticas partiendo de sus prestaciones pero sobre todo de estrategias de uso de las mismas.
 							</p>
 						</div>
 						<div class="description-two">

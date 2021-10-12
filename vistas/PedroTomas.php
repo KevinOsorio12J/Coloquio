@@ -11,7 +11,7 @@
 					<div class="block">
 						<!-- Coundown Timer -->
 						<div class="timer"></div>
-						<h1 style="font-size:30px;">Dr. En Matematica Educativa</h1>
+						<h1 style="font-size:30px;">Dr. En MATEMÁTICA Educativa</h1>
 						<h2>Pedro Tomás Ortiz y Ojeda</h2>
 						
 					</div>
@@ -43,18 +43,18 @@
 						<h2>Acerca del <span class="alternate">Dr. Pedro Tomás</span></h2>						
 						<div class="description-two">
 							<p>
-								Licenciatura INGENIERIA INDUSTRIAL MECANICA<br>
-								Maestría INGENIERIA MECANICA<br>
-								Doctorado MATEMATICA EDUCATIVA<br>
+								Licenciatura INGENIERÍA INDUSTRIAL MECÁNICA<br>
+								Maestría INGENIERÍA MECÁNICA<br>
+								Doctorado MATEMÁTICA EDUCATIVA<br>
 								Especialidades: <br>
-								ENSEÑANZA DE LAS MATEMATICAS<br>
-								INGENIERIA HIDRAULICA SANITARIA<br>
+								ENSEÑANZA DE LAS MATEMÁTICAS<br>
+								INGENIERÍA HIDRÁULICA SANITARIA<br>
 							</p>
 							<br>
 							<p>
-								INSTRUCTOR en INGENIERIA Y CAPACITACIÓN<br>
-								GERENTE DEL DEPARTAMENTO DE COMPRESORES en INGENIERIA EN AIRE ACONDICIONADO Y REFRIGERACIÓN<br>
-								ASESOR en CONSTRUCCIONES ELECTROMECANICAS<br>
+								INSTRUCTOR en INGENIERÍA Y CAPACITACIÓN<br>
+								GERENTE DEL DEPARTAMENTO DE COMPRESORES en INGENIERÍA EN AIRE ACONDICIONADO Y REFRIGERACIÓN<br>
+								ASESOR en CONSTRUCCIONES ELECTROMECÁNICAS<br>
 								PROFESOR DE TIEMPO COMPLETO en TECNOLÓGICO NACIONAL DE MÉXICO campus Tuxtla Gutiérrez<br>
 
 							</p>

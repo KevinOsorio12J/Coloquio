@@ -10,11 +10,11 @@
 					<div class="block">
 						<!-- Coundown Timer -->
 						<div class="timer"></div>
-						<h1>1er</h1>
-						<h2>Coloquio Nacional</h2>
-						<h6>Matemática Educativa Aplicada a la Ingeniería</h6>
+						<h1>1er Coloquio Nacional</h1>
+						<h2>Matemática Educativa Aplicada a la Ingeniería</h2>
+						<h6>ÚNETE A NUESTRAS PONENCIAS MAGISTRALES</h6>
 						<!-- Action Button -->
-						<a href="index.php?page=Registro" class="btn btn-white-md">Registrarse</a>
+						<a href=" https://meet.google.com/yum-chjm-zev" class="btn btn-white-md" target="_blank">Clic aquí</a>
 					</div>
 				</div>
 			</div>
@@ -41,7 +41,7 @@
 				</div>
 				<div class="col-lg-8 col-md-6 align-self-center">
 					<div class="content-block">
-						<h2>1er. Congreso: Matemática Educativa Aplicada a la Ingeniería.</h2>
+						<h2>1er. Coloquio: Matemática Educativa Aplicada a la Ingeniería.</h2>
 						<div class="description-one">
 							<h4>
 								Justificación
@@ -122,7 +122,7 @@
 						<br>
 						<div class="description-one">
 							<p>
-								<b>Número de ponencias: </b>8 (1) ponencia magistral (Representante de la academia)
+								<b>Número de ponencias: </b>10 (2) ponencias magistrales 
 							</p>
 						</div>
 						<div class="description-two">
@@ -199,7 +199,7 @@
 								<!-- Headings -->
 								<ul class="m-0 p-0">
 									<li class="headings" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
-										<div class="time day">Dia</div>
+										<div class="time day">Día</div>
 										<div class="time hora">Hora</div>
 										<div class="speaker">Encargado</div>
 										<div class="subject">Tema</div>
@@ -244,7 +244,7 @@
 											<div class="speaker" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
 												<img src="assets/principal/images/speakers/speaker-thumb-one.jpg"
 													alt="speaker-thumb-one">
-												<span class="name">Dr. Luis Alfonso Maldonado López </span>
+												<span class="name">Dr. Luis Alfonso Maldonado López </span> 
 											</div>
 											<!-- Subject -->
 											<div class="subject">Fractales, ciencia, ingeniería y Sociedad</div>
@@ -489,7 +489,7 @@
 												<span class="name">Mtro. José pablo Rodríguez López</span>
 											</div>
 											<!-- Subject -->
-											<div class="subject">Todos sabemos calculo “interpretación física y
+											<div class="subject">Todos sabemos cálculo “interpretación física y
 												geométrica”.</div>
 											
 										</div>
@@ -741,7 +741,7 @@
 							</div>
 						</div>
 						<div class="pricing-body">
-							<p class="justificar">Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta mas entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
+							<p class="justificar">Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta más entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.  </p>
 						</div>
 						<div class="pricing-footer text-center">
 							<a class="btn btn-transparent-md" class="nav-link" href="#taller1" data-toggle="modal">Detalles del taller</a>
@@ -795,14 +795,14 @@
 							</div>
 							<!-- Price -->
 							<div style=" height:290px" class="price">
-								<h3 style="color:white; display: flex; align-items:center;">Todos sabemos calculo “interpretación física y geométrica”.</h3>
+								<h3 style="color:white; display: flex; align-items:center;">Todos sabemos cálculo “interpretación física y geométrica”.</h3>
 							</div>
 						</div>
 						<div class="pricing-body">
 							<!-- Feature List -->
 							<ul class="feature-list m-0 p-0">
 								<li>
-									<p class="justificar">En este taller los participantes identificaran el fundamento general para la comprensión del cálculo, facilitando una comprensión para su interpretación en el mundo que nos rodea. </p>
+									<p class="justificar">En este taller los participantes identificarán el fundamento general para la comprensión del cálculo, facilitando una comprensión para su interpretación en el mundo que nos rodea. </p>
 								</li>
 								
 							</ul>
@@ -1263,7 +1263,7 @@
 							</div>
 						</div>
 						<div class="pricing-body">
-							<p class="justificar">Scratch es un lenguaje de programación desarrollado desde 2003 por el prestigioso Instituto Tecnológico de Massachusetts (MIT) Estados Unidos, que guarda algunas características que lo hacen único. No sólo es gratuito y multiplataforma (Windows, Mac, Linux), sino que es un software sencillo y completamente intuitivo que no necesita ningún tipo de manual para poder manejarlo con eficiencia. Además, permite compartir proyectos con docentes, así como visualizar la de otros compañeros y aprender de ello.</p>
+							<p class="justificar">Scratch es un lenguaje de programación desarrollado desde 2003 por el prestigioso Instituto Tecnológico de Massachusetts (MIT) Estados Unidos, que guarda algunas características que lo hacen único. No solo es gratuito y multiplataforma (Windows, Mac, Linux), sino que es un software sencillo y completamente intuitivo que no necesita ningún tipo de manual para poder manejarlo con eficiencia. Además, permite compartir proyectos con docentes, así como visualizar la de otros compañeros y aprender de ello.</p>
 						</div>
 						<div class="pricing-footer text-center">
 							<a href="#taller10" class="btn btn-transparent-md" data-toggle="modal">Detalles del taller</a>
@@ -1502,9 +1502,9 @@
 							<h5 class="justificar">
 								El Comité organizador del“1er. Coloquio Nacional: Matemática Educativa Aplicada a la
 								Ingeniería.”, que se realizará los días 18 y 19 de octubre de 2021, en un horario de 11:00
-								a17:00 horas a través de Google Meet salida Facebook Live., convoca a participar en la
+								a 17:00 horas a través de Google Meet salida Facebook Live., convoca a participar en la
 								presentación de trabajos libres de investigación en la modalidad de cartel. El objetivo
-								primordial es propiciar el intercambio académico-cientííco sobre las experiencias y
+								primordial es propiciar el intercambio académico-científico sobre las experiencias y
 								avances en la aplicación de las matemáticas en la ingeniería
 							</h5>
 						</div>	

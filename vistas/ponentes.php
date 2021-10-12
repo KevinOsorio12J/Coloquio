@@ -4,7 +4,7 @@
 				<div class="col-12">
 					<!-- Section Title -->
 					<div  class="section-title white">
-						<h3>¿Quienes son <span class="alternate">los Ponentes?</span></h3>
+						<h3>¿Quiénes son <span class="alternate">los Ponentes?</span></h3>
 						<p>Ponentes de talla internacional invitados al evento</p>
 					</div>
 				</div>
@@ -17,12 +17,12 @@
 							<img src="assets/img/Pedro Tomás Ortiz y Ojeda.png" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=PedroTomas">Ver mas</a>
+								<a class="boton-ponentes" href="index.php?page=PedroTomas">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
 							<h5><a>Pedro Tomás Ortiz y Ojeda</a></h5>
-							<p>Dr. En Matematica Educativa</p>
+							<p>Dr. En Matemática Educativa</p>
 						</div>
 					</div>
 				</div>
@@ -33,12 +33,12 @@
 							<img src="assets/img/Dr.Eduardo Basurto Hidalgo.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=EduardoBasurto">Ver mas</a>
+								<a class="boton-ponentes" href="index.php?page=EduardoBasurto">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
 							<h5><a>Eduardo Basurto Hidalgo</a></h5>
-							<p>Dr. En Matematica Educativa</p>
+							<p>Dr. En Matemática Educativa</p>
 						</div>
 					</div>
 				</div>
@@ -49,7 +49,7 @@
 							<img src="assets/img/Eduardo Mancera Martínez.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=EduardoMancera">Ver mas</a>
+								<a class="boton-ponentes" href="index.php?page=EduardoMancera">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
@@ -65,12 +65,12 @@
 							<img src="assets/img/Osbeli Elesban Bercian Moguel.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=OsbeliEsleban">Ver mas</a>
+								<a class="boton-ponentes" href="index.php?page=OsbeliEsleban">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
 							<h5><a>Osbeli Elesban Bercian Moguel </a></h5>
-							<p>Dr. En Administracion</p>
+							<p>Dr. En Administración</p>
 						</div>
 					</div>
 				</div>
@@ -82,7 +82,7 @@
 								class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=CarlosAlberto">Ver mas</a>
+								<a class="boton-ponentes" href="index.php?page=CarlosAlberto">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
@@ -98,12 +98,12 @@
 							<img  src="assets/img/Francisco Javier Vazquez Hilerio.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=FranciscoHilerio">Ver mas</a>
+								<a class="boton-ponentes" href="index.php?page=FranciscoHilerio">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
 							<h5><a>Francisco Javier Vazquez Hilerio</a></h5>
-							<p>Mtro. En Educación Matematica</p>
+							<p>Mtro. En Educación Matemática</p>
 						</div>
 					</div>
 				</div>
@@ -114,7 +114,7 @@
 							<img  src="assets/img/Efraín Solares Lachica.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=EfrainSolares">Ver mas</a>
+								<a class="boton-ponentes" href="index.php?page=EfrainSolares">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
@@ -130,12 +130,12 @@
 							<img  src="assets/img/Damian Alejandro Clemente Olague.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=DamianAlejandro">Ver mas</a>
+								<a class="boton-ponentes" href="index.php?page=DamianAlejandro">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
 							<h5><a>Damian Alejandro Clemente Olague</a></h5>
-							<p>Mtro. en Ciencias Matematicas</p>
+							<p>Mtro. en Ciencias Matemáticas</p>
 						</div>
 					</div>
 				</div>
@@ -146,7 +146,7 @@
 							<img  src="assets/img/Israel Sánchez Domínguez.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=IsraelSanchez">Ver mas</a>
+								<a class="boton-ponentes" href="index.php?page=IsraelSanchez">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
@@ -155,6 +155,7 @@
 						</div>
 					</div>
 				</div>
+				
 
 			</div>
 		</div>

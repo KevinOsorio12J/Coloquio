@@ -34,7 +34,7 @@
 			<div class="row">
 				<div class="col-md-6 align-self-center">
 					<div class="copyright-text" style="width:100%">
-						<p><a href="#" style="color:#ffff">Universidad Politecnica de Tapachula</a> &#169; 2021 Todos los derechos
+						<p><a style="color:#ffff; cursor:default">Universidad Politecnica de Tapachula</a> &#169; 2021 Todos los derechos
 							reservados.</p>
 					</div>
 				</div>

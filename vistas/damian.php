@@ -10,7 +10,7 @@
 					<div class="block">
 						<!-- Coundown Timer -->
 						<div class="timer"></div>
-						<h1 style="font-size:30px;">Mtro. En Sistemas Computacionales</h1>
+						<h1 style="font-size:30px;">MTRO. EN CIENCIAS MATEMATICAS.</h1>
 						<h2>Damian Alejandro Clemente Olague</h2>
 						
 					</div>
@@ -45,7 +45,7 @@
 							Licenciado en Educación Media especializado en Matemáticas por la Universidad de Colima, Maestro en Educación por la Universidad Santander y Maestro en Ciencias en Matemática Educativa por el Centro de Investigación en Ciencia Aplicada y Tecnología Aplicada del Instituto Politécnico Nacional.							</p>
 							<br>
 							<p>
-							Ha participado en eventos nacionales (México) e internacionales relacionados con la matemática educativa. Tiene diversas publicaciones con temáticas asociadas a la formación de profesores de matemáticas y la enseñanza de esta disciplina. Ostenta el nombramiento del representante en América del Norte en el Comité Interamericano de Educación Matemática (CIAEM). miembro activo en la Asociación Iberoamericana de Docencia Universitaria (AIDU), la Asociación Mexiquense de Matemática Educativa (AMME) y la Red latinoamericana de Investigación en Educación Estadística (RELIIE) y el Comité de Olimpiadas de Matemáticas en el estado de Colima, México.	</p>
+							Ha participado en eventos nacionales (México) e internacionales relacionados con la matemática educativa. Tiene diversas publicaciones con temáticas asociadas a la formación de profesores de matemáticas y la enseñanza de esta disciplina. Ostenta el nombramiento del representante en América del Norte en el Comité Interamericano de Educación Matemática (CIAEM). Miembro activo en la Asociación Iberoamericana de Docencia Universitaria (AIDU), la Asociación Mexiquense de Matemática Educativa (AMME) y la Red latinoamericana de Investigación en Educación Estadística (RELIIE) y el Comité de Olimpiadas de Matemáticas en el estado de Colima, México.	</p>
 							<br>
 							<p>Se desempeña como docente bachillerato en el Centro de Estudios Tecnológicos industrial y de servicios no 084 en el estado de Colima, México, como diseñador de contenidos y tutor con la Universidad Virtual del Estado de Michoacán (UNIVIM) en el programa de Maestría en Enseñanza de las Ciencias. Así mismo, ha colaborado como docente en la Universidad Tecnológica de Manzanillo en sus programas de Técnico Superior Universitario e Ingeniería.</p>
 							

@@ -19,7 +19,7 @@
     <!--====  End of Banner  ====-->
     <br>
 
-    <section class="registroform">
+<!--     <section class="registroform">
         <div class="container reg" id="advanced-search-form" style="border-radius:1em; padding: 20px">
             <h2>Registro</h2>
             <form class="st" id="register">
@@ -84,5 +84,8 @@
 
             </form>
         </div>
-    </section>
+    </section> -->
 <br>
+<section class="registroform">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdw8A3kuByAP34yQjzRa3eFpL_5Obbr5iqfBSDzxu4VLyxRiA/viewform?embedded=true" width="100%" height="1900px" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+</section>

@@ -1108,7 +1108,7 @@ select.form-control:not([size]):not([multiple]) {
 .banner .block h6 {
     color: #fff;
     font-weight: 400;
-    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .banner-two {
