@@ -11,7 +11,7 @@
 					<div class="block">
 						<!-- Coundown Timer -->
 						<div class="timer"></div>
-						<h1 style="font-size:30px;">Ing. En Sistemas Computacionales</h1>
+						<h1 style="font-size:30px;">Dr. en Ciencias de la Información</h1>
 						<h2>Efraín Solares Lachica</h2>
 						
 					</div>

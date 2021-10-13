@@ -3925,6 +3925,12 @@ ul.pagination .active a {
         padding: 100px;
         text-align: justify;
     }
+    
+}
+@media (max-width: 767px){
+    .espacio{
+        display: none;
+    }
 }
 
 @media(max-width: 576px) {

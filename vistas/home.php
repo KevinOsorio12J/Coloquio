@@ -1477,7 +1477,7 @@
 					</div>
 
 					<div class="modal fade" id="carteles_pdf" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-						<div class="modal-dialog" role="document" style="max-width:none;width:70%;height:90%;">
+						<div class="modal-dialog" role="document" style="max-width:none;width:95%;height:90%;">
 							<div class="modal-content" style="height:100%">
 							<div class="modal-header">
 								<h5 class="modal-title" id="exampleModalLongTitle">Convocatoria</h5>

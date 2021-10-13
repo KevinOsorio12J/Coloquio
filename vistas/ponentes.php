@@ -111,23 +111,23 @@
 					<!-- Speaker 1 -->
 					<div class="speaker-item">
 						<div class="image">
-							<img  src="assets/img/Efraín Solares Lachica.jpg" alt="speaker" class="img-fluid">
+							<img  src="assets/img/Damian Alejandro Clemente Olague.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=EfrainSolares">Ver más</a>
+								<a class="boton-ponentes" href="index.php?page=DamianAlejandro">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
-							<h5><a>Efraín Solares Lachica</a></h5>
-							<p>Ing. en Sistemas Computacionales</p>
+							<h5><a>Damian Alejandro Clemente Olague</a></h5>
+							<p>Mtro. en Ciencias Matemáticas</p>
 						</div>
 					</div>
-				</div>
+				</div>				
 				<div class="col-lg-4 col-md-4 col-sm-6">
 					<!-- Speaker 1 -->
 					<div class="speaker-item">
 						<div class="image">
-							<img style="height:424px;"  src="assets/img/Luis Alfonso.jpg" alt="speaker" class="img-fluid">
+							<img src="assets/img/Luis Alfonso.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
 								<a class="boton-ponentes" href="index.php?page=Luis Alfonso">Ver más</a>
@@ -155,7 +155,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6">
+				<div class="col-lg-4 col-md-4 col-sm-6 espacio">
 					<!-- Speaker 1 -->
 					<div style="background:#eae9ec00" class="speaker-item">
 						
@@ -166,18 +166,19 @@
 					<!-- Speaker 1 -->
 					<div class="speaker-item">
 						<div class="image">
-							<img  src="assets/img/Damian Alejandro Clemente Olague.jpg" alt="speaker" class="img-fluid">
+							<img  src="assets/img/Efraín Solares Lachica.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=DamianAlejandro">Ver más</a>
+								<a class="boton-ponentes" href="index.php?page=EfrainSolares">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
-							<h5><a>Damian Alejandro Clemente Olague</a></h5>
-							<p>Mtro. en Ciencias Matemáticas</p>
+							<h5><a>Efraín Solares Lachica</a></h5>
+							<p>Dr. en Ciencias de la Información</p>
 						</div>
 					</div>
 				</div>
+				
 				
 
 			</div>
