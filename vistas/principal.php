@@ -42,8 +42,11 @@
 	else if(isset($_GET['page']) &&$_GET['page'] =="IsraelSanchez"){
 		include "vistas/Israel.php";
 	}
-	else if(isset($_GET['page']) &&$_GET['page'] =="Luis Alfonso"){
+	else if(isset($_GET['page']) &&$_GET['page'] =="LuisAlfonso"){
 		include "vistas/LuisA.php";
+	}
+	else if(isset($_GET['page']) &&$_GET['page'] =="PedroJavier"){
+		include "vistas/PedroJavier.php";
 	}
 	else{
 		include "vistas/home.php";
@@ -53,7 +56,7 @@
 	include "vistas/scripts.php";
 ?>
 
-	
+
 </body>
 
 </html>

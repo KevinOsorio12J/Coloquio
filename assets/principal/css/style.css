@@ -3931,6 +3931,9 @@ ul.pagination .active a {
     .espacio{
         display: none;
     }
+    .contenedor{
+        height: 300px;
+    }
 }
 
 @media(max-width: 576px) {

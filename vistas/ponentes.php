@@ -130,7 +130,7 @@
 							<img src="assets/img/Luis Alfonso.jpg" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
-								<a class="boton-ponentes" href="index.php?page=Luis Alfonso">Ver más</a>
+								<a class="boton-ponentes" href="index.php?page=LuisAlfonso">Ver más</a>
 							</div>
 						</div>
 						<div class="content text-center">
@@ -155,11 +155,27 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 espacio">
+				<div class="col-lg-2 col-md-2 col-sm-6 espacio">
 					<!-- Speaker 1 -->
 					<div style="background:#eae9ec00" class="speaker-item">
 						
 						
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6">
+					<!-- Speaker 1 -->
+					<div class="speaker-item">
+						<div class="image">
+							<img  src="assets/img/Pedro Javier Escobar Turriza.jpg" alt="speaker" class="img-fluid">
+							<div class="primary-overlay"></div>
+							<div class="socials">
+								<a class="boton-ponentes" href="index.php?page=PedroJavier">Ver más</a>
+							</div>
+						</div>
+						<div class="content text-center">
+							<h5><a>Pedro Javier Escobar Turriza</a></h5>
+							<p>Dr. en Ciencias Biológicas</p>
+						</div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
