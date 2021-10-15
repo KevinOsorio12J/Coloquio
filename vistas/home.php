@@ -391,6 +391,28 @@
 											
 										</div>
 									</li>
+									<li class="schedule-details">
+										<div class="block" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
+											<div class="time">
+												<span class="time large">19-oct-2021</span>
+												<span class="time-short">19/10/21</span>
+											</div>
+											<!-- time -->
+											<div class="time">
+												<i class="fa fa-clock-o"></i>
+												<span class="time">14:00 PM</span>
+											</div>
+											<!-- Speaker -->
+											<div class="speaker" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
+												<img src="assets/principal/images/speakers/speaker-thumb-one.jpg"
+													alt="speaker-thumb-one">
+												<span class="name">Dr. Pedro Javier Escobar Turriza </span>
+											</div>
+											<!-- Subject -->
+											<div class="subject">Aplicaciones de la Bioinformática para entender los procesos metabólicos de los organismos</div>
+											
+										</div>
+									</li>
 									<!-- PONENTE 6 -->
 									<li class="schedule-details">
 										<div class="block" style="display: flex;align-items: center;justify-content: space-around;text-align:center">
@@ -439,8 +461,9 @@
 											
 										</div>
 									</li>
+
 									
-									
+				
 								</ul>
 							</div>
 							<div class="tab-pane fade schedule-item" id="nov21">
@@ -763,7 +786,7 @@
 										</div>
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										Scilab es un software libre que sirve para resolver problemas matemáticos en diversos entornos de programación: basado en lenguaje C y programación en bloques, entre otras herramientas. Para quienes no dominan un lenguaje de programación estructurado resulta más entendible la programación en bloques, en donde se pueden resolver sistemas de ecuaciones diferenciales y graficar los resultados.</p>
 										
 										</div>
@@ -828,7 +851,7 @@
 										</div>
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										En este taller los participantes identificaran el fundamento general para la comprensión del cálculo, facilitando una comprensión para su interpretación en el mundo que nos rodea.										
 										</div>
 										<hr>
@@ -882,7 +905,7 @@
 										<img style="padding-left:75px; width:375px;" src="assets/principal/images/icon/python.png" alt="">
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										Aplicación del lenguaje de programación Python para la enseñanza de diversos métodos matemáticos de manera sencilla que permita visualizar y resaltar el uso de las matemáticas para la ingeniería.</p>
 										
 										</div>
@@ -937,7 +960,7 @@
 										<img style="padding-left:65px; width: 385px;" src="assets/principal/images/icon/lineal.png" alt="">
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										Presentación de los conceptos fundamentales para desarrollar matrices en R, con la finalidad de desarrollar el método de eliminación Gauss-Jordan.</p>
 										
 										</div>
@@ -996,7 +1019,7 @@
 										<img style="padding-left:85px; width:365px;" src="assets/principal/images/icon/olimpiadas.png" alt="">
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										Álgebra se ha convertido en un área fundamental en las olimpiadas de matemáticas. Veremos algunas de las principales herramientas del álgebra.</p>
 										
 										</div>
@@ -1052,7 +1075,7 @@
 										<img style="padding-left:65px; width:345px" src="assets/principal/images/icon/matlab.png" alt="">
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										En este taller se mostrará de forma práctica como muestrear una señal y procesarla y filtrarla, usando la FFT y filtros digitales.</p>
 										
 										</div>
@@ -1107,7 +1130,7 @@
 										<img style="padding-left:95px; width:345px;" src="assets/principal/images/icon/plataforma.png" alt="">
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										Se pretende que el asistente conozca, maneje y aprenda diferentes plataformas que están en línea para aprender matemáticas; así como las aplicaciones digitales que ayudan a un aprendizaje significativo en el campo de las matemáticas.</p>
 										
 										</div>
@@ -1168,7 +1191,7 @@
 										<img style="padding-left:65px; width:365px;" src="assets/principal/images/icon/matematico.png" alt="">
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										Desarrollar habilidades matemáticas y de pensamiento lógico – matemático centrados en el alumno, despertando el interés en ellos para potenciar la creatividad hacia lo nuevo y cosas que solo existen en la imaginación.</p>
 										
 										</div>
@@ -1229,7 +1252,7 @@
 										<img style="padding-left:65px; width:365px;" src="assets/principal/images/icon/algebra.jpg" alt="">
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										Se repasarán algunos conceptos básicos del álgebra lineal, así como algunas aplicaciones de estos temas en el procesamiento de imágenes y la robótica.										
 										</div>
 										<hr>
@@ -1283,7 +1306,7 @@
 										<img style="padding-left:65px; width:365px;" src="assets/principal/images/icon/scratch.png" alt="">
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										Scratch es un lenguaje de programación desarrollado desde 2003 por el prestigioso Instituto Tecnológico de Massachusetts (MIT) Estados Unidos, que guarda algunas características que lo hacen único. No sólo es gratuito y multiplataforma (Windows, Mac, Linux), sino que es un software sencillo y completamente intuitivo que no necesita ningún tipo de manual para poder manejarlo con eficiencia. Además, permite compartir proyectos con docentes, así como visualizar la de otros compañeros y aprender de ello.										
 										</div>
 										<hr>
@@ -1337,7 +1360,7 @@
 										<img style="padding-left:65px;" src="assets/principal/images/icon/newton.png" alt="">
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										La utilización del cálculo diferencial e integral como herramienta de solución de problemas de aplicación a la ingeniería permite la revisión de métodos numéricos implementados mediante la utilización del programa EXCEL. En este taller se espera que el asistente, pueda resolver de manera eficiente y rápida, a partir de la elaboración de fórmulas, las integrales definidas en un intervalo establecido por medio del método de Newton-Raphson.										
 										</div>
 										<hr>
@@ -1391,7 +1414,7 @@
 										<img style="padding-left:65px;" src="assets/principal/images/icon/Scilab_Logo.png" alt="">
 
 										<div style="padding:40px;">
-										<h4>Descripcion del taller: </h4>
+										<h4>Descripción del taller: </h4>
 										Uso del software Scilab como alternativa a MATLAB en el manejo y operaciones con matrices.										
 										</div>
 										<hr>
